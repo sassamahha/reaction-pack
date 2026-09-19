@@ -22,13 +22,13 @@ Each emoji: 128×128 transparent PNG, under 128 KB.
 
 ![Red Dress Horse](emoji/red-dress-horse/preview.png)
 
-[Download ZIP](emoji/red-dress-horse/red-dress-horse-emoji.zip)
+[Download ZIP](emoji/red-dress-horse/red-dress-horse-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-red-dress-horse-emoji)
 
 ### White Tuxedo Horse
 
 ![White Tuxedo Horse](emoji/tuxedo-horse/preview.png)
 
-[Download ZIP](emoji/tuxedo-horse/tuxedo-horse-emoji.zip)
+[Download ZIP](emoji/tuxedo-horse/tuxedo-horse-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-tuxedo-horse-emoji)
 
 ### Workwear Rooster
 
