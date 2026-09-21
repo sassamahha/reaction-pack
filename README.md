@@ -24,7 +24,7 @@ Each emoji: 128×128 transparent PNG, under 128 KB.
 
 ![女性スーツ大仏](emoji-ja/office-buddha-emoji-ja/preview.png)
 
-[ZIP](emoji-ja/office-buddha-emoji-ja/office-buddha-emoji-ja.zip)
+[ZIP](emoji-ja/office-buddha-emoji-ja/office-buddha-emoji-ja.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-office-buddha-emoji-ja)
 
 ### 白タイツ鹿マスク
 
@@ -196,13 +196,13 @@ LGTM · SHIP IT · BUG · FIXED · WTF · ACK · ON IT · BLOCKED · TY · AFK a
 
 ![Tracksuit Koala Mask](emoji/koala-emoji/preview.png)
 
-[ZIP](emoji/koala-emoji/koala-emoji.zip)
+[ZIP](emoji/koala-emoji/koala-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-koala-emoji)
 
 ### Sweatshirt Panda
 
 ![Sweatshirt Panda](emoji/panda-emoji/preview.png)
 
-[ZIP](emoji/panda-emoji/panda-emoji.zip)
+[ZIP](emoji/panda-emoji/panda-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-panda-emoji)
 
 ### Workwear Rooster
 
@@ -214,43 +214,43 @@ LGTM · SHIP IT · BUG · FIXED · WTF · ACK · ON IT · BLOCKED · TY · AFK a
 
 ![Rose Dress Rooster](emoji/rose-rooster-emoji/preview.png)
 
-[ZIP](emoji/rose-rooster-emoji/rose-rooster-emoji.zip)
+[ZIP](emoji/rose-rooster-emoji/rose-rooster-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-rose-rooster-emoji)
 
 ### Gym Uniform Shoebill
 
 ![Gym Uniform Shoebill](emoji/shoebill-emoji/preview.png)
 
-[ZIP](emoji/shoebill-emoji/shoebill-emoji.zip)
+[ZIP](emoji/shoebill-emoji/shoebill-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-shoebill-emoji)
 
 ### Heart Apron Gorilla
 
 ![Heart Apron Gorilla](emoji/gorilla-emoji/preview.png)
 
-[ZIP](emoji/gorilla-emoji/gorilla-emoji.zip)
+[ZIP](emoji/gorilla-emoji/gorilla-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-gorilla-emoji)
 
 ### Retro Pink Rabbit
 
 ![Retro Pink Rabbit](emoji/pink-rabbit-emoji/preview.png)
 
-[ZIP](emoji/pink-rabbit-emoji/pink-rabbit-emoji.zip)
+[ZIP](emoji/pink-rabbit-emoji/pink-rabbit-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-pink-rabbit-emoji)
 
 ### Retro Tiger Mascot
 
 ![Retro Tiger Mascot](emoji/retro-tiger-emoji/preview.png)
 
-[ZIP](emoji/retro-tiger-emoji/retro-tiger-emoji.zip)
+[ZIP](emoji/retro-tiger-emoji/retro-tiger-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-retro-tiger-emoji)
 
 ### Black Bodysuit Tiger Mask
 
 ![Black Bodysuit Tiger Mask](emoji/tiger-mask-emoji/preview.png)
 
-[ZIP](emoji/tiger-mask-emoji/tiger-mask-emoji.zip)
+[ZIP](emoji/tiger-mask-emoji/tiger-mask-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-tiger-mask-emoji)
 
 ### Workwear T-Rex Mask
 
 ![Workwear T-Rex Mask](emoji/trex-emoji/preview.png)
 
-[ZIP](emoji/trex-emoji/trex-emoji.zip)
+[ZIP](emoji/trex-emoji/trex-emoji.zip) · [Gumroad](https://eidendo.gumroad.com/l/sassamahha-trex-emoji)
 
 
 ## License / 利用条件
